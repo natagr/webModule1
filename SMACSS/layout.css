@@ -1,0 +1,13 @@
+.header, .footer {
+    background-color: black ;
+}
+
+.header-black .row, .navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.footer-black {
+    text-align: center;
+    background: none;
+}

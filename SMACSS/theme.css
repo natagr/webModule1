@@ -1,0 +1,9 @@
+
+#footer-text, #fantastic-beasts-encyclopedia, .fantastic-beast-image-container h2 {
+    color: white;
+    text-shadow: 0px 0px 10px gold;
+}
+
+#footer-text {
+    font-family: 'AnimalesFantastic', sans-serif;
+}

@@ -1,0 +1,9 @@
+.header-black {
+    display: flex;
+    align-items: center;
+    background-color: black !important;
+}
+
+.footer-black {
+    background-color: black !important;
+}
